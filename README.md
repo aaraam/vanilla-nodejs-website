@@ -1,4 +1,4 @@
-# Vanilla Node.JS project - node farms: Product Overview
+# Vanilla Node.JS project - node farms
 `Made entirely for self reference`
 
 This project is a basic Node.js application that serves a product overview page, individual product pages, and an API endpoint to fetch product data.
